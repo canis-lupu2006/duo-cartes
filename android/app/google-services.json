@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128342632505",
+    "project_id": "duocartes",
+    "storage_bucket": "duocartes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128342632505:android:3c9a0b2e562114fcebc5e8",
+        "android_client_info": {
+          "package_name": "com.duocartes.duo_cartes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeED2P0ZAYNBewogPvKkYcnUiIn35PKZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

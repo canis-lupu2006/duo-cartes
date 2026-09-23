@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "duocartes",
+          "appId": "1:128342632505:android:3c9a0b2e562114fcebc5e8",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "duocartes",
+          "configurations": {
+            "android": "1:128342632505:android:3c9a0b2e562114fcebc5e8",
+            "ios": "1:128342632505:ios:e929e80c20d7d64febc5e8"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}
